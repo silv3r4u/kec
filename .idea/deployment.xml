@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="teacher server techenhance" traceLevel="DETAILS" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="amazon ec2">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/../untitled" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ec2 root">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/../untitled" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="online teacher">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/../untitled" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="teacher server techenhance">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="ftp" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="umnbook server">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/../untitled" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="umnbook wp">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/../untitled" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
